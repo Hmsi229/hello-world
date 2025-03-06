@@ -7,3 +7,7 @@ A map made from lidar derived surface elevations and made in ArcGIS Pro Spring 2
 * Heights greater than 6 feet
 
 [Visit my webpage](#)
+
+## My map image
+
+![Campground map](https://live.staticflickr.com/3485/3720141971_324155f776_z.jpg)
