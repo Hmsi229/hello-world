@@ -15,5 +15,6 @@ A map made from lidar derived surface elevations and made in ArcGIS Pro Spring 2
 
 ## KY Tree Canopy Model
 ![Tree Canopy](Tree-Canopy-Model.jpg)
+
 *Download [GeoPDF](Tree-Canopy-Model.pdf)*
 
