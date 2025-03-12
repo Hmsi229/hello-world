@@ -7,5 +7,5 @@ A map made from lidar derived surface elevations and made in ArcGIS Pro Spring 2
 * Heights greater than 5 feet and less than 50 feet
 
 ## KY Tree Canopy Model
-![Tree Canopy](tree_canopy.jpg)
-*Download [GeoPDG](tree_canopy.pdf)
+![Tree Canopy Model UKY Campus](tree_canopy.jpg)
+*Download[Tree Canopy Model UKY Campus](tree_canopy.pdf)*
